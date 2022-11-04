@@ -1,6 +1,6 @@
-## gen-pw
+## Vico Toriani
 
-just a small project to play around with _typescript_
+just some learning projects to play around with various languages/frameworks/tools!
 
 <!---
 VicoToriani/VicoToriani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
